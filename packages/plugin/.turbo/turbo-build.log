@@ -1,0 +1,10 @@
+
+> pnpm-plugin@2.0.0 build D:\dlxpzh-project\pnpm-changesets\packages\plugin
+> unbuild
+
+i Building pnpm-plugin
+√ Build succeeded for pnpm-plugin
+  dist/index.cjs (size: 119 B, exports: default)
+  dist/index.mjs (size: 109 B, exports: default)
+Σ Total dist size (byte size): 291 B
+
