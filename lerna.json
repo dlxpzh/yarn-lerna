@@ -4,5 +4,12 @@
   "version": "0.0.0",
   "packages": [
     "packages/*"
-  ]
+  ],
+  "command": {
+    "publish": {
+      "allowBranch": "main",
+      "conventionalCommits": true,
+      "exact": true
+    }
+  }
 }
